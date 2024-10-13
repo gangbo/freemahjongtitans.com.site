@@ -1,0 +1,74 @@
+{
+  "home": {
+    "title": "Mahjong Titans Online - Free Tile-Matching Puzzle Game | Easy to Learn, Challenging to Master",
+    "description": "Experience Mahjong Titans Online, a free tile-matching puzzle game. No download required, start playing instantly. Multiple layouts available, suitable for all ages. Enhance your observation skills while enjoying a relaxing pastime.",
+    "keywords": ["Mahjong", "Puzzle-Spiel", "Online-Spiel", "Entspannung", "Mahjong Titans Online"],
+    "h1": "Mahjong Titans Online - Free Tile-Matching Puzzle Game",
+    "welcome": "Welcome to Mahjong Titans Online! Start playing immediately, no download needed. Enjoy this web adaptation of the classic Windows game, perfect for casual puzzle enthusiasts.",
+    "features": {
+      "title": "Game Features",
+      "instant": "Instant Play: No registration required, start with just a click",
+      "layouts": "Diverse Layouts: Classic arrangements including Pyramid, Turtle, Dragon, and more",
+      "graphics": "Beautiful Tiles: Traditional Mahjong designs, clear and easy to distinguish",
+      "crossPlatform": "Cross-Platform: Play on your computer, tablet, or smartphone",
+      "free": "Completely Free: No hidden costs or in-game purchases"
+    },
+    "howToPlay": {
+      "title": "How to Play",
+      "description": "Mahjong Titans is easy to learn but requires strategy and patience to master. The goal is to remove all tiles from the board by matching pairs. You can only select 'free' tiles (those with at least one side exposed) to match.",
+      "startButton": "Start Playing"
+    },
+    "tips": {
+      "title": "Game Tips",
+      "observe": "Survey the Board: Take a moment to study the entire layout before making your first move",
+      "topLayer": "Clear the Top: Focus on removing top-layer tiles to reveal more options below",
+      "rareCards": "Target Rare Tiles: Prioritize matching less common tiles like Winds or Dragons",
+      "balance": "Keep it Balanced: Try to remove tiles evenly across the board to avoid isolated tiles",
+      "undo": "Use Undo Wisely: Don't hesitate to use the undo feature if you find yourself stuck",
+      "memory": "Train Your Memory: Try to remember the positions of tiles you've seen but couldn't match yet"
+    },
+    "footer": "© 2024 Mahjong Titans Online. All rights reserved."
+  },
+  "layout": {
+    "nav": {
+      "home": "Home",
+      "howToPlay": "How to Play",
+      "tips": "Game Tips"
+    },
+    "footer": {
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "copyright": "© 2024 Mahjong Titans Online. All rights reserved.",
+      "description": "Experience Mahjong Titans Online, a free tile-matching puzzle game. No download required, start playing instantly."
+    }
+  },
+  "privacyPolicy": {  
+    "title": "Privacy Policy",
+    "description": "Our privacy policy aims to protect your personal information and ensure your privacy is respected and protected.",
+    "content": {
+      "intro": "Welcome to Mahjong Titans Online. We respect your privacy and are committed to protecting your personal information.",
+      "noLogin": "No Login Required: Our website does not require user login, so no account information is collected.",
+      "noDataCollection": "No Personal Data Collected: We do not collect, store, or process any personal data of users.",
+      "analytics": "Website Analytics: We use Google Analytics to collect anonymous usage statistics to help us improve the website experience. These data do not contain any personally identifiable information.",
+      "cookies": "Cookie Usage: Our website may use cookies to improve the user experience, but does not collect personal information.",
+      "thirdParty": "Third-Party Links: Our website may contain links to third-party websites. We are not responsible for the privacy policies of these websites. It is recommended to review the privacy policies of these websites.",
+      "changes": "Policy Changes: We may update this privacy policy from time to time. Any changes will be posted on this page.",
+      "contact": "If you have any questions about our privacy policy, please contact us: admin@freemahjongtitans.com"
+    }
+  },
+  "termsOfUse": {
+    "title": "Terms of Use",
+    "description": "Our terms of use aim to clarify the rules and responsibilities for using this website, ensuring a pleasant experience for all users.",
+    "content": {
+      "intro": "Welcome to Mahjong Titans Online. Use our services by accepting these terms.",
+      "usePolicy": "Use Policy: This website is intended for personal use only. Commercial use or illegal activities are prohibited.",
+      "noAccount": "No Account Required: Our services do not require creating an account or providing personal information.",
+      "intellectualProperty": "Intellectual Property: All content on this website, including text, images, code, and game design, is protected by copyright law.",
+      "contentSource": "Content Source: Some content on this website may be sourced from third parties. If you believe that our content infringes on your rights, please contact us: admin@freemahjongtitans.com. We will process your request promptly.",
+      "liability": "Disclaimer: We are not liable for any direct or indirect losses resulting from the use of this website.", 
+      "changes": "Terms of Use Changes: We reserve the right to modify these terms at any time. Any changes will be posted on this page.",
+      "governing": "Governing Law: These terms are governed by the laws of the People's Republic of China.",
+      "contact": "If you have any questions about our terms of use, please contact us: admin@freemahjongtitans.com"
+    }
+  }
+}

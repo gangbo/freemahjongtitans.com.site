@@ -1,0 +1,74 @@
+{
+  "home": {
+    "title": "Mahjong Titans Online - Jogo de Puzzle Gratuito | Fácil de Aprender, Desafiador de Dominar",
+    "description": "Experimente Mahjong Titans Online, um jogo de puzzle gratuito. Sem necessidade de download, comece a jogar instantaneamente. Vários layouts disponíveis, adequado para todas as idades. Aprimore suas habilidades de observação enquanto desfruta de um passatempo relaxante.",
+    "keywords": ["Mahjong", "Puzzle-Spiel", "Online-Spiel", "Entspannung", "Mahjong Titans Online"],
+    "h1": "Mahjong Titans Online - Jogo de Puzzle Gratuito",
+    "welcome": "Bem-vindo ao Mahjong Titans Online! Comece a jogar imediatamente, sem necessidade de download. Aproveite esta adaptação web do clássico jogo do Windows, perfeita para entusiastas de puzzles casuais.",
+    "features": {
+      "title": "Características do Jogo",
+      "instant": "Jogo Instantâneo: Sem necessidade de registro, comece com apenas um clique",
+      "layouts": "Layouts Diversos: Arranjos clássicos incluindo Pirâmide, Tartaruga, Dragão e muito mais",
+      "graphics": "Peças Bonitas: Designs tradicionais de Mahjong, claros e fáceis de distinguir",
+      "crossPlatform": "Multiplataforma: Jogue no seu computador, tablet ou smartphone",
+      "free": "Totalmente Gratuito: Sem custos ocultos ou compras no jogo"
+    },
+    "howToPlay": {
+      "title": "Como Jogar",
+      "description": "Mahjong Titans é fácil de aprender, mas requer estratégia e paciência para dominar. O objetivo é remover todas as peças do tabuleiro combinando pares. Você só pode selecionar peças 'livres' (aquelas com pelo menos um lado exposto) para combinar.",
+      "startButton": "Começar a Jogar"
+    },
+    "tips": {
+      "title": "Dicas de Jogo",
+      "observe": "Analise o Tabuleiro: Tire um momento para estudar todo o layout antes de fazer seu primeiro movimento",
+      "topLayer": "Limpe o Topo: Concentre-se em remover as peças da camada superior para revelar mais opções abaixo",
+      "rareCards": "Mire nas Peças Raras: Priorize combinar peças menos comuns como Ventos ou Dragões",
+      "balance": "Mantenha o Equilíbrio: Tente remover peças uniformemente pelo tabuleiro para evitar peças isoladas",
+      "undo": "Use o Desfazer com Sabedoria: Não hesite em usar o recurso de desfazer se você se encontrar preso",
+      "memory": "Treine sua Memória: Tente lembrar as posições das peças que você viu, mas ainda não pôde combinar"
+    },
+    "footer": "© 2024 Mahjong Titans Online. Todos os direitos reservados."
+  },
+  "layout": {
+    "nav": {
+      "home": "Início",
+      "howToPlay": "Como Jogar",
+      "tips": "Dicas de Jogo"
+    },
+    "footer": {
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfService": "Termos de Serviço",
+      "copyright": "© 2024 Mahjong Titans Online. Todos os direitos reservados.",
+      "description": "Experimente Mahjong Titans Online, um jogo de puzzle gratuito. Sem necessidade de download, comece a jogar instantaneamente."
+    }
+  },
+  "privacyPolicy": {
+    "title": "Política de Privacidade",
+    "description": "Nossa política de privacidade visa proteger suas informações pessoais e garantir que sua privacidade seja respeitada e protegida.",
+    "content": {
+      "intro": "Bem-vindo ao Mahjong Titans Online. Respeitamos sua privacidade e nos comprometemos a proteger suas informações pessoais.",
+      "noLogin": "Nenhum Login necessário: Nosso site não requer login do usuário, portanto, nenhuma informação de conta é coletada.",
+      "noDataCollection": "Nenhuma informação pessoal coletada: Não coletamos, armazenamos ou processamos nenhuma informação pessoal de usuários.",
+      "analytics": "Análise do site: Usamos Google Analytics para coletar estatísticas de uso anônimas para ajudar a melhorar a experiência do site. Esses dados não contêm nenhuma informação pessoal identificável.",
+      "cookies": "Uso de cookies: Nosso site pode usar cookies para melhorar a experiência do usuário, mas não coleta informações pessoais.",
+      "thirdParty": "Links externos: Nosso site pode conter links para sites de terceiros. Não somos responsáveis pelas políticas de privacidade desses sites. É recomendável revisar as políticas de privacidade desses sites.",
+      "changes": "Alterações na política: Reservamos o direito de modificar esta política de privacidade de tempos em tempos. Todas as alterações serão postadas nesta página.",
+      "contact": "Se você tiver alguma dúvida sobre nossa política de privacidade, entre em contato conosco: admin@freemahjongtitans.com"
+    }
+  },
+  "termsOfUse": {
+    "title": "Termos de Uso",
+    "description": "Nossos termos de uso visam esclarecer as regras e responsabilidades para o uso deste site, garantindo uma experiência agradável para todos os usuários.",
+    "content": {
+      "intro": "Bem-vindo ao Mahjong Titans Online. Use nossos serviços aceitando estes termos.",
+      "usePolicy": "Política de uso: Este site é destinado apenas para uso pessoal. Comércio ou atividades ilegais são proibidos.",
+      "noAccount": "Nenhum conta necessária: Nossos serviços não exigem a criação de uma conta ou fornecimento de informações pessoais.",
+      "intellectualProperty": "Propriedade intelectual: Todos os conteúdos deste site, incluindo texto, imagens, código e design de jogo, são protegidos por lei de direitos autorais.",
+      "contentSource": "Fonte do conteúdo: Alguns conteúdos deste site podem ser extraídos de terceiros. Se você acredita que nosso conteúdo viola seus direitos, entre em contato conosco: admin@freemahjongtitans.com. Processaremos sua solicitação rapidamente.",
+      "liability": "Isenção de responsabilidade: Não somos responsáveis por quaisquer perdas diretas ou indiretas resultantes do uso deste site.",
+      "changes": "Alterações nos termos de uso: Reservamos o direito de modificar estes termos a qualquer momento. Todas as alterações serão postadas nesta página.",
+      "governing": "Lei aplicável: Estes termos são governados pela lei da República Popular da China.",
+      "contact": "Se você tiver alguma dúvida sobre nossos termos de uso, entre em contato conosco: admin@freemahjongtitans.com"
+    }
+  }
+}

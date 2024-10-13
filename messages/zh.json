@@ -1,0 +1,74 @@
+{
+  "home": {
+    "title": "Mahjong Titans网页版 - 免费在线麻将消除游戏 | 轻松上手，富有挑战",
+    "description": "体验Mahjong Titans网页版，一款免费的在线麻将消除游戏。无需下载，即刻开始挑战。提供多种布局，适合所有年龄段玩家。锻炼观察力，享受休闲时光。",
+    "keywords": ["麻将", "消除游戏", "在线游戏", "休闲游戏", "Mahjong Titans网页版"],
+    "h1": "Mahjong Titans网页版 - 免费在线麻将消除游戏",
+    "welcome": "欢迎来到Mahjong Titans网页版！无需下载，即刻开始挑战。体验经典Windows游戏的网页重现，享受休闲解谜的乐趣。",
+    "features": {
+      "title": "游戏特点",
+      "instant": "即时游戏：无需注册，打开网页即可开始",
+      "layouts": "多样布局：提供金字塔、乌龟、龙等多种经典布局",
+      "graphics": "精美图案：采用传统麻将牌图案，清晰易辨识",
+      "crossPlatform": "跨平台兼容：适用于电脑、平板和手机",
+      "free": "免费畅玩：完全免费，无隐藏收费"
+    },
+    "howToPlay": {
+      "title": "如何游玩",
+      "description": "Mahjong Titans的玩法简单直观，但要真正掌握需要策略和耐心。目标是移除游戏版面上所有的麻将牌，每次可以移除两张相同的牌，只有'自由'的牌才能被移除（左侧或右侧至少有一边是空的）。",
+      "startButton": "开始游戏"
+    },
+    "tips": {
+      "title": "游戏技巧",
+      "observe": "观察全局：在开始移除牌之前，先仔细观察整个版面",
+      "topLayer": "优先清理顶层：尽可能先移除顶层的牌，为下面的牌创造空间",
+      "rareCards": "关注稀有牌：优先匹配数量较少的牌型，如风牌或箭牌",
+      "balance": "保持平衡：尽量均匀地从版面各处移除牌，避免出现孤立的牌",
+      "undo": "利用撤销功能：如果走入死胡同，不要犹豫使用撤销功能",
+      "memory": "练习记忆：尝试记住已经看到但暂时无法移除的牌的位置"
+    },
+    "footer": "© 2024 Mahjong Titans网页版。保留所有权利。"
+  },
+  "layout": {
+    "nav": {
+      "home": "主页",
+      "howToPlay": "如何游玩",
+      "tips": "游戏技巧"
+    },
+    "footer": {
+      "privacyPolicy": "隐私政策",
+      "termsOfService": "服务条款",
+      "copyright": "© 2024 Mahjong Titans网页版。保留所有权利。",
+      "description": "体验Mahjong Titans网页版，一款免费的在线麻将消除游戏。无需下载，即刻开始挑战。"
+    }
+  },
+  "privacyPolicy": {
+    "title": "隐私政策",
+    "description": "我们的隐私政策旨在保护您的个人信息，确保您的隐私权得到尊重和保护。",
+    "content": {
+      "intro": "欢迎访问Mahjong Titans网页版。我们重视您的隐私，并致力于保护您的个人信息。",
+      "noLogin": "无需登录：我们的网站不需要用户登录，因此不会收集任何账户相关信息。",
+      "noDataCollection": "不收集个人信息：我们不收集、存储或处理任何用户的个人信息。",
+      "analytics": "网站分析：我们使用Google Analytics来收集匿名的使用统计数据，以帮助我们改进网站体验。这些数据不包含任何可识别个人身份的信息。",
+      "cookies": "Cookie使用：我们的网站可能使用cookies来提高用户体验，但不会用于收集个人信息。",
+      "thirdParty": "第三方链接：我们的网站可能包含指向第三方网站的链接。我们不对这些网站的隐私政策负责，建议您查看这些网站的隐私声明。",
+      "changes": "政策变更：我们可能会不时更新本隐私政策。任何变更都将在本页面上公布。",
+      "contact": "如果您对我们的隐私政策有任何疑问，请联系我们：admin@freemahjongtitans.com"
+    }
+  },
+  "termsOfUse": {
+    "title": "服务条款",
+    "description": "我们的服务条款旨在明确使用本网站的规则和责任，确保所有用户都能获得良好的体验。",
+    "content": {
+      "intro": "欢迎使用Mahjong Titans网页版。使用我们的服务即表示您同意遵守以下条款。",
+      "usePolicy": "使用政策：本网站仅供个人娱乐使用。禁止任何商业用途或非法活动。",
+      "noAccount": "无账户要求：我们的服务不需要创建账户或提供个人信息。",
+      "intellectualProperty": "知识产权：网站上的所有内容，包括但不限于文本、图像、代码和游戏设计，均受版权法保护。",
+      "contentSource": "内容来源：本网站部分内容可能来源于网络。如果您认为我们的内容侵犯了您的权利，请联系我们：admin@freemahjongtitans.com。我们将及时处理您的请求。",
+      "liability": "免责声明：我们不对使用本网站可能造成的任何直接或间接损失负责。",
+      "changes": "条款变更：我们保留随时修改这些条款的权利。任何变更都将在本页面上公布。",
+      "governing": "适用法律：这些条款受中华人民共和国法律管辖。",
+      "contact": "如果您对我们的服务条款有任何疑问，请联系我们：admin@freemahjongtitans.com"
+    }
+  }
+}
